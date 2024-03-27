@@ -16,12 +16,14 @@ Welcome to my portfolio on data analytics. I currently hold a Diploma in Data An
   - Unsupervised Learning
   - Time-Series Analysis
 - Other Projects
+- Eduction
+- Links
 
 
 
 
 ## Portfolio Projects
-These projects cover a variety of topics in data science. They are organised somewhat by their machine learning goals, but most are end-to-end projects with extensive data wrangling and feature engineering. 
+These projects cover a variety of topics in data science. They are organised somewhat by their machine learning goals, but most are end-to-end projects with extensive data wrangling, feature engineering and visualisation. 
 
 
 ### Machine Learning | Supervised Learning
@@ -40,6 +42,16 @@ ${\textsf{\color{red}Laptop Price Prediction in R}}$<br>
 <b>Results:</b>    <br>
 
 
-## 
+
+
+## Other Projects
+
+## Education
+
+Diploma in Data Analytics for Business. CCT, Dublin
+
+## Links
+
+Tableau Public
 
 

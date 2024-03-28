@@ -50,11 +50,11 @@ ${\textsf{\color{red}Airline Customer Satisfaction}}$<br>
 
 ### Machine Learning | Unsupervised Learning
 
-${\textsf{\color{red}Dimmensionality Reduction on Unknown Data}}$<br>
+${\textsf{\color{red}Dimensionality Reduction on Unknown Data}}$<br>
 <b>Link:</b> https://github.com/Lughaidh-w/Dimensionality-Reduction-on-Unknown-Data<br>
-<b>Objective:</b> <br>
-<b>Description:</b> <br>
-<b>Results:</b> _<br>
+<b>Objective:</b> Perform dimensionality reduction on data without context while keeping 99.5% of the variance.<br>
+<b>Description:</b> Project from completing the HDip with CCT. Dataset is Air Pressure System failures in Scania Trucks, it features a target feature of failure types. It has anonymised features, lacks context, and has missing data. These discrepencies are investigated with data exploration and the nature of the missing data is understood in relation to failures. Imputation methods are trialed and the data is modelled.<br>
+<b>Results:</b> Relationships in the missing data is highlighted. Imputation methods and principal component analysis are performed. Some classifications are then performed on the data.<br>
 
 ${\textsf{\color{red}Market Basket Analysis on Grocery Purchases}}$<br>
 <b>Link:</b>https://github.com/Lughaidh-w/Affinity-Analysis-on-Grocery-Purchases<br>
@@ -79,6 +79,8 @@ ${\textsf{\color{red}Time-Series Analysis on Stock Data}}$<br>
 
 <!-- Time-Series Analysis on Wind Speed -->
 
+<!-- Chat Log Analysis -->
+
 
 ## Report Writing
 
@@ -94,7 +96,7 @@ These projects are here to showcase other relevant skils I have.
 ### SQL
 
 ${\textsf{\color{red}SQL Movie Database Creation}}$<br>
-<b>Link:</b> <br>
+<b>Link:</b> https://github.com/Lughaidh-w/SQL-Movie-Database-Creation<br>
 <b>Objective:</b> Create a database of popular movies using IMDb datasets and MySQL.<br>
 <b>Description:</b> Creating tables and database inside MySQL, performing queries for demonstration.<br>
 <b>Results:</b> _<br>

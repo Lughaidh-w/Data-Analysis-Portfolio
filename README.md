@@ -4,15 +4,18 @@
 Welcome to my data analytics portfolio.
 I currently hold a Diploma in Data Analytics for Business, and studying the Higher Diploma in Data Analytics for Business from College of Computing Technology, Dublin.
 This portfolio features projects in data science and showcases my analytical, engineering and general working with data skills.
-I use a wide range of techniques/languages/processes.
 
 The table of contents below is the best way to navigate my portfolio.
 Some projects were completed as part of my education and answer certain questions according to the assignments, the explanations and rational in the accompying assignment outline and submitted reports are ommit>
 
+## Education
+
+Higher Diploma in Data Analytics for Business. CCT, Dublin<br>
+Diploma in Data Analytics for Business. CCT, Dublin
 
 ## Table of Contents
 
-- Overview
+- Technologies Used
 - Machine Learning Projects
   - Supervised Learning
   - Unsupervised Learning
@@ -23,14 +26,15 @@ Some projects were completed as part of my education and answer certain question
 - Statistical Testing
 - Report Writing
 - Other Projects
-  - Data Visualisation
-  - SQL
-  - API 
-- Eduction
 - Links
 
-## Overview
-This is a selection of the technologies used in my portfolio, this list isn't exhaustive.
+## Technologies Used
+This is a selection of the technologies used in my portfolio.<br>
+
+Most projects will feature python and the usual data science python libraries, 
+but I enjoy learning new things and approaching problems in new ways so you might find some exploration in other languages.
+This list isn't exhaustive, but I hope it's a good overview of my skills.
+
 Languages used: Python, R, SQL, Scala, JavaScript, Bash
 Environments: Anaconda, RStudio, Jupyter, RMarkdown, VSCode, Docker, Node.js
 
@@ -81,6 +85,25 @@ ${\textsf{\color{red}Steam platform recommendations}}$<br>
 <b>Description: </b>Recommendation system using collab and content based filtering, including Steamlit dashboard<br>
 <b>Results:</b>This project is completed and will be uploaded soon.<br>
 
+${\textsf{\color{red}Apache Spark ML}}$<br>
+<b>Link:</b>https://github.com/Lughaidh-w/apache-spark-ml <br>
+<b>Objective: </b>Perform ML in Spark <br>
+<b>Description: </b>Machine Learning with Spark. Notebooks are completed from part of IBMs Data Engineering Professional Certificate. <br>
+<b>Results: </b>Basic ML implementaion in Spark
+
+${\textsf{\color{red}Data Analysis in R; Statistics, Probability, Regression}}$<br>
+<b>Link:</b>https://github.com/Lughaidh-w/data-analysis-with-r <br>
+<b>Objective: </b>Peform data analysis in R <br>
+<b>Description: </b>RMarkdown files are completed from part of Data Analysis with R Specialisation with Duke University. <br>
+<b>Results: </b>Questions and Exercises completed in R.
+
+${\textsf{\color{red}Regression in Scala<br>
+<b>Link:</b>https://github.com/Lughaidh-w/Regression-in-Scala <br>
+<b>Objective: </b>Predict Car Fuel Comsumption <br>
+<b>Description: </b>Uses Scala/Spark to explore, prepare and analyse data, performing supervised learning tasks.<br>
+<b>Results: </b>
+
+
 
 ### Machine Learning | Unsupervised Learning
 
@@ -103,13 +126,13 @@ ${\textsf{\color{red}Sentiment Analysis on News Headlines}}$<br>
 <b>Results:</b> _<br>
 
 
-ADD NEW CLUSTERING
+<--ADD NEW CLUSTERING PROJECT-->
 
-ADD NEW MARKET BASKET ANALYSIS
+<--ADD NEW MARKET BASKET ANALYSIS-->
 
 ## Deep Learning
 
-These are a collection of projects in Deep Learning.
+These are a collection of projects in Deep Learning using TensorFlow, which feature RNN time series and a fully connected neural network in TensorFlow.js.
 
 ### Deep Learning | Time-Series Analysis
 
@@ -126,9 +149,9 @@ ${\textsf{\color{red}Time-Series Analysis on Stock Data}}$<br>
 ### Deep Learning | Computer Vision
 
 ${\textsf{\color{red}Handwritten Digit Recognition in JavaScript}}<br>
-1<b>Link:</b> https://github.com/Lughaidh-w/Digit-Recognition-in-JavaScript<br>
+<b>Link:</b> https://github.com/Lughaidh-w/Digit-Recognition-in-JavaScript<br>
 <b>Objective:</b>Perform Machine Learning in JavaScript. <br>
-<b>Description:</b>Using the MNIST dataset creates a Neural network for image recognition. <br>
+<b>Description:</b>Using the MNIST dataset creates a Neural network for image recognition. MNIST dataset is a solved problem but implementing this in JS expands the uses of the project into app development. Interesting apps exist that use something similar to create Sudoku solvers that leverage a mobile phone's camera.<br>
 <b>Results:</b> Tensorflow.js creates an accurate Neural Network for digit classificaiton. <br>
 
 
@@ -137,6 +160,7 @@ ${\textsf{\color{red}Handwritten Digit Recognition in JavaScript}}<br>
 
 ## Statistical Testing
 
+Most projects will feature some statistical testing 
 
 ${\textsf{\color{red}A/B Testing Cookie Cats<br>
 <b>Link:</b> https://github.com/Lughaidh-w/AB-Testing-Cookie-Cats<br>
@@ -155,36 +179,32 @@ ${\textsf{\color{red}A/B Testing Cookie Cats<br>
 I have strong report writing and research skills, and I have included a selection of reports here.
 
 ${\textsf{\color{red}Airline Customer Satisfaction}}$<br>
-<b>Link: </b>
+<b>Link: </b>https://github.com/Lughaidh-w/Portfolio-Reports/tree/master<br>
+<b>Objective: </b>Using CRISP-DM answer a machine learning question on a public dataset on transport/crime.<br>
+<b>Description: </b>Report from my HDip on Airline Customer Satisfaction.
 
 ## Other Projects
 
 These projects are here to showcase other relevant skils I have.
-Things to expect: Containers, databases, scripting, apis.
+Things to expect: Data Visualisation, Containers, APIs
 
-### Data Visualisation
 
-${\textsf{\color{red}Data Visualisation Game Sales<br>
+${\textsf{\color{red}Data Visualisation Game Sales}}$<br>
 <b>Link:</b> https://github.com/Lughaidh-w/Data-Visualisation-Game-Sales<br>
 <b>Objective:</b> Explore and visualise a dataset of gaming sales.<br>
 <b>Description:</b>  <br>
 <b>Results:</b> _<br>
 
 
+<--ADD CA 2-->
 
-ADD CA 2 ??
 
-
-### SQL
-
-${\textsf{\color{red}SQL Movie Database Creation}}$<br>
+textsf{\color{red}SQL Movie Database Creation}}$<br>
 <b>Link:</b> https://github.com/Lughaidh-w/SQL-Movie-Database-Creation<br>
 <b>Objective:</b> Create a database of popular movies using IMDb datasets and MySQL.<br>
 <b>Description:</b> Creating tables and database inside MySQL, performing queries for demonstration.<br>
 <b>Results:</b> _<br>
 
-
-### API
 
 ${\textsf{\color{red}Zen Quotes API}}$<br>
 <b>Link:</b> https://github.com/Lughaidh-w/Zen-Quote-Display<br>
@@ -198,16 +218,16 @@ ${\textsf{\color{red}SQL Movie Database Creation}}$<br>
 <b>Results:</b> _<br>
 
 
+${\textsf{\color{red}Jupyter Notebook with Scala}}$<br>
+<b>Link:</b> https://github.com/Lughaidh-w/Jupyter-Notebook-in-Scala<br>
+<b>Description:</b> Docker image to run Jupyter Notebook with Scala kernal.
 
-## Education
 
-Higher Diploma in Data Analytics for Business. CCT, Dublin<br>
-Diploma in Data Analytics for Business. CCT, Dublin
 
 ## Other Links
 
 Tableau Public<br>
-These visualisations answer specific questions from assigments.<br>
+These visualisations answer specific questions for an assigments from my level 7 Diploma..<br>
 https://public.tableau.com/app/profile/lwilki33/vizzes<br>
 
 Steam Platform Recommendation System<br>

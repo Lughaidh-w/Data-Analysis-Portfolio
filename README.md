@@ -201,11 +201,15 @@ ${\textsf{\color{red}SQL Movie Database Creation}}$<br>
 
 ## Education
 
-Higher Diploma in Data Analytics for Business. CCT, Dublin
+Higher Diploma in Data Analytics for Business. CCT, Dublin<br>
 Diploma in Data Analytics for Business. CCT, Dublin
 
-## Links
+## Other Links
 
-Tableau Public
-Steam Platform Recommendation System
+Tableau Public<br>
+These visualisations answer specific questions from assigments.<br>
+https://public.tableau.com/app/profile/lwilki33/vizzes<br>
 
+Steam Platform Recommendation System<br>
+Dashboard based on approx 1000 Steam Users played and recommended games.<br>
+https://l-wilkie-sba22529-mxf7kmquortk5wyy3ekjrm.streamlit.app/<br>

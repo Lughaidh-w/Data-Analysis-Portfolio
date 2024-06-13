@@ -79,7 +79,7 @@ ${\textsf{\color{red}Car Emissions Prediction in Scala}}$<br>
 <b>Description:</b> Data exploration, clearning and modelling using Scala in jupyter notebook with machine learning and Spark libraries.<br>
 <b>Results:</b> <br>
 
-${\textsf{\color{red}Steam platform recommendations}}$<br>
+${\textsf{\color{red}Steam platform recommendation system}}$<br>
 <b>Link:</b>Link coming soon <br>
 <b>Objective:</b> <br>
 <b>Description: </b>Recommendation system using collab and content based filtering, including Steamlit dashboard<br>
@@ -97,7 +97,7 @@ ${\textsf{\color{red}Data Analysis in R; Statistics, Probability, Regression}}$<
 <b>Description: </b>RMarkdown files are completed from part of Data Analysis with R Specialisation with Duke University. <br>
 <b>Results: </b>Questions and Exercises completed in R.
 
-${\textsf{\color{red}Regression in Scala<br>
+${\textsf{\color{red}Regression in Scala}}$<br>
 <b>Link:</b>https://github.com/Lughaidh-w/Regression-in-Scala <br>
 <b>Objective: </b>Predict Car Fuel Comsumption <br>
 <b>Description: </b>Uses Scala/Spark to explore, prepare and analyse data, performing supervised learning tasks.<br>
@@ -148,7 +148,7 @@ ${\textsf{\color{red}Time-Series Analysis on Stock Data}}$<br>
 
 ### Deep Learning | Computer Vision
 
-${\textsf{\color{red}Handwritten Digit Recognition in JavaScript}}<br>
+${\textsf{\color{red}Handwritten Digit Recognition in JavaScript}}$<br>
 <b>Link:</b> https://github.com/Lughaidh-w/Digit-Recognition-in-JavaScript<br>
 <b>Objective:</b>Perform Machine Learning in JavaScript. <br>
 <b>Description:</b>Using the MNIST dataset creates a Neural network for image recognition. MNIST dataset is a solved problem but implementing this in JS expands the uses of the project into app development. Interesting apps exist that use something similar to create Sudoku solvers that leverage a mobile phone's camera.<br>
@@ -162,7 +162,7 @@ ${\textsf{\color{red}Handwritten Digit Recognition in JavaScript}}<br>
 
 Most projects will feature some statistical testing 
 
-${\textsf{\color{red}A/B Testing Cookie Cats<br>
+${\textsf{\color{red}A/B Testing Cookie Cats}}$<br>
 <b>Link:</b> https://github.com/Lughaidh-w/AB-Testing-Cookie-Cats<br>
 <b>Objective:</b> Conduct A/B testing on player retention for a game dataset.<br>
 <b>Description:</b> Cookie cats <br>
@@ -199,7 +199,7 @@ ${\textsf{\color{red}Data Visualisation Game Sales}}$<br>
 <--ADD CA 2-->
 
 
-textsf{\color{red}SQL Movie Database Creation}}$<br>
+${\textsf{\color{red}SQL Movie Database Creation}}$<br>
 <b>Link:</b> https://github.com/Lughaidh-w/SQL-Movie-Database-Creation<br>
 <b>Objective:</b> Create a database of popular movies using IMDb datasets and MySQL.<br>
 <b>Description:</b> Creating tables and database inside MySQL, performing queries for demonstration.<br>

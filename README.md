@@ -166,8 +166,16 @@ https://public.tableau.com/app/profile/lwilki33/vizzes<br>
 These visualizations answer specific questions for assignments from my level 7 Diploma.
 <br><br>
 
-<iframe src="https://public.tableau.com/views/GlobalOfficeSales/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width="800" height="600" frameborder="0"></iframe>
+<div style="display: flex; flex-direction: row; justify-content: space-around;">
+  <div>
+    <img src="assets/dashboard1.png" alt="Global Office Sales - Dashboard 1" style="width: 45%;">
+  </div>
+  <div>
+    <img src="assets/dashboard2.png" alt="Global Office Sales - Dashboard 2" style="width: 45%;">
+  </div>
+</div>
 
+<br><br>
 
 <b>Steam Platform Recommendation System App</b><br>
 https://l-wilkie-sba22529-mxf7kmquortk5wyy3ekjrm.streamlit.app/<br>

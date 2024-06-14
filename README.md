@@ -164,6 +164,7 @@ Docker image to run Jupyter Notebook with Scala kernel.
 <b>Tableau Public</b><br>
 https://public.tableau.com/app/profile/lwilki33/vizzes<br>
 These visualizations answer specific questions for assignments from my level 7 Diploma.
+Below shows a preview of one of the tasks.
 <br><br>
 
 <p float="left">
@@ -171,12 +172,14 @@ These visualizations answer specific questions for assignments from my level 7 D
   <img src="assets/dashboard2.png" alt="Global Office Sales - Dashboard 2" width="48%" />
 </p>
 
-<br><br>
+<br>
 
 <b>Steam Platform Recommendation System App</b><br>
 https://l-wilkie-sba22529-mxf7kmquortk5wyy3ekjrm.streamlit.app/<br>
 Dashboard based on approx 1000 Steam Users' played and recommended games.
 App is created in Streamlit, code available here: https://github.com/L-Wilkie-sba22529/streamlit_app
 <br><br>
+
+<img src="assets/steam_streamlit_app.png" alt="Steam Streamlit App" width="100%"/>
 
 <--Add CA2 here -->

@@ -58,14 +58,15 @@ These projects cover a variety of topics in data science. They are organised som
 https://github.com/Lughaidh-w/Laptop-Price-Prediction<br>
 Supervised learning to predict laptop price from a dataset of laptop features and prices.
 Exploring what features contribute to laptop pricing.
-<b>Results: </b> Laptop price can be generalised, but more data on how old each laptop model is would yield better signal.<br>
+Laptop price can be generalised, but more data on how old each laptop model is would yield better signal.
 <br><br>
 
-${\textsf{\color{red}Laptop Price Prediction in R}}$<br>
-<b>Link:</b> https://github.com/Lughaidh-w/Laptop-Price-Prediction-in-R<br>
-<b>Objective:</b> To predict laptop prices and determine what features impact this.<br>
-<b>Description:</b> Translating my laptop price prediction into R. Data exploration demonstration is shown on the dataset, data is then processed as per the findings from the previous experiment in python, and then modelling is performed.<br>
-<b>Results:</b>    <br>
+<b>Laptop Price Prediction in R</b><br>
+https://github.com/Lughaidh-w/Laptop-Price-Prediction-in-R<br>
+To predict laptop prices and determine what features impact this.
+Translating my laptop price prediction in python into R. 
+Data exploration demonstration is shown on the dataset, data is then processed as per the findings from the previous experiment in python, and then modelling is performed.
+<br><br>
 
 ${\textsf{\color{red}Airline Customer Satisfaction}}$<br>
 <b>Link:</b> https://github.com/Lughaidh-w/Airline-Customer-Satisfaction<br>

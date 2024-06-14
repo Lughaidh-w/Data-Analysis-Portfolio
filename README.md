@@ -166,14 +166,10 @@ https://public.tableau.com/app/profile/lwilki33/vizzes<br>
 These visualizations answer specific questions for assignments from my level 7 Diploma.
 <br><br>
 
-<div style="display: flex; flex-direction: row; justify-content: space-around;">
-  <div>
-    <img src="assets/dashboard1.png" alt="Global Office Sales - Dashboard 1" style="width: 45%;">
-  </div>
-  <div>
-    <img src="assets/dashboard2.png" alt="Global Office Sales - Dashboard 2" style="width: 45%;">
-  </div>
-</div>
+<p float="left">
+  <img src="assets/dashboard1.png" alt="Global Office Sales - Dashboard 1" width="48%" />
+  <img src="assets/dashboard2.png" alt="Global Office Sales - Dashboard 2" width="48%" />
+</p>
 
 <br><br>
 

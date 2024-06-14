@@ -25,7 +25,6 @@ Diploma in Data Analytics for Business. CCT, Dublin
 - Statistical Testing
 - Report Writing
 - Other Projects
-- Links
 
 ## Technologies Used
 This is a selection of the technologies used in my portfolio.<br>
@@ -68,58 +67,55 @@ Translating my laptop price prediction in python into R.
 Data exploration demonstration is shown on the dataset, data is then processed as per the findings from the previous experiment in python, and then modelling is performed.
 <br><br>
 
-${\textsf{\color{red}Airline Customer Satisfaction}}$<br>
-<b>Link:</b> https://github.com/Lughaidh-w/Airline-Customer-Satisfaction<br>
-<b>Objective:</b> Predict airline customer satisfaction with classification modelling.<br>
-<b>Description:</b> Performing data preparation and binary classificaiton modelling on Airline Customer Satisfaction in python. Related report is inlcuded in report section below.<br>
-<b>Results:</b> Support Vector Machine model best fit on data with 94% accuracy.<br>
+<b>Airline Customer Satisfaction</b><br>
+https://github.com/Lughaidh-w/Airline-Customer-Satisfaction<br>
+Predict airline customer satisfaction with classification modeling.
+Performing data preparation and binary classification modeling on Airline Customer Satisfaction in Python. Related report is included in the report section below.
+Support Vector Machine model best fit on data with 94% accuracy.
+<br><br>
 
-${\textsf{\color{red}Car Emissions Prediction in Scala}}$<br>
-<b>Link:</b> https://github.com/Lughaidh-w/Regression-in-Scala<br>
-<b>Objective:</b> Model car emission with Regression in Scala<br>
-<b>Description:</b> Data exploration, clearning and modelling using Scala in jupyter notebook with machine learning and Spark libraries.<br>
-<b>Results:</b> <br>
+<b>Car Emissions Prediction in Scala</b><br>
+https://github.com/Lughaidh-w/Regression-in-Scala<br>
+Model car emissions with Regression in Scala.
+Data exploration, cleaning, and modeling using Scala in Jupyter Notebook with machine learning and Spark libraries.
+<br><br>
 
-${\textsf{\color{red}Steam platform recommendation system}}$<br>
-<b>Link:</b>Link coming soon <br>
-<b>Objective:</b> <br>
-<b>Description: </b>Recommendation system using collab and content based filtering, including Steamlit dashboard<br>
-<b>Results:</b>This project is completed and will be uploaded soon.<br>
+<b>Steam platform recommendation system</b><br>
+Link coming soon<br>
+Recommendation system using collaborative and content-based filtering, including a Streamlit dashboard.
+This project is completed and will be uploaded soon.
+<br><br>
 
-${\textsf{\color{red}Apache Spark ML}}$<br>
-<b>Link:</b>https://github.com/Lughaidh-w/apache-spark-ml <br>
-<b>Objective: </b>Perform ML in Spark <br>
-<b>Description: </b>Machine Learning with Spark. Notebooks are completed from part of IBMs Data Engineering Professional Certificate. <br>
-<b>Results: </b>Basic ML implementaion in Spark
+<b>Apache Spark ML</b><br>
+https://github.com/Lughaidh-w/apache-spark-ml<br>
+Perform Machine Learning in Spark.
+Machine Learning with Spark. Notebooks are completed as part of IBM's Data Engineering Professional Certificate.
+Basic ML implementation in Spark.
+<br><br>
 
-${\textsf{\color{red}Data Analysis in R; Statistics, Probability, Regression}}$<br>
-<b>Link:</b>https://github.com/Lughaidh-w/data-analysis-with-r <br>
-<b>Objective: </b>Peform data analysis in R <br>
-<b>Description: </b>RMarkdown files are completed from part of Data Analysis with R Specialisation with Duke University. <br>
-<b>Results: </b>Questions and Exercises completed in R.
-
+<b>Data Analysis in R; Statistics, Probability, Regression</b><br>
+https://github.com/Lughaidh-w/data-analysis-with-r<br>
+Perform data analysis in R.
+RMarkdown files are completed as part of the Data Analysis with R Specialization with Duke University.
+Questions and exercises completed in R.
+<br><br>
 
 ### Machine Learning | Unsupervised Learning
 
-${\textsf{\color{red}Dimensionality Reduction on Unknown Data}}$<br>
-<b>Link:</b> https://github.com/Lughaidh-w/Dimensionality-Reduction-on-Unknown-Data<br>
-<b>Objective:</b> Perform dimensionality reduction on data without context while keeping 99.5% of the variance.<br>
-<b>Description:</b> Project from completing the HDip with CCT. Dataset is Air Pressure System failures in Scania Trucks, it features a target feature of failure types. It has anonymised features, lacks context, and has missing data. These discrepencies are investigated with data exploration and the nature of the missing data is understood in relation to failures. Imputation methods are trialed and the data is modelled.<br>
-<b>Results:</b> Relationships in the missing data is highlighted. Imputation methods and principal component analysis are performed. Some classifications are then performed on the data.<br>
+<b>Dimensionality Reduction on Unknown Data</b><br>
+https://github.com/Lughaidh-w/Dimensionality-Reduction-on-Unknown-Data<br>
+Perform dimensionality reduction on data without context while keeping 99.5% of the variance.
+Project from completing the HDip with CCT. Dataset is Air Pressure System failures in Scania Trucks, it features a target feature of failure types. It has anonymized features, lacks context, and has missing data. These discrepancies are investigated with data exploration and the nature of the missing data is understood in relation to failures. Imputation methods are trialed and the data is modeled.
+Relationships in the missing data are highlighted. Imputation methods and principal component analysis are performed. Some classifications are then performed on the data.
+<br><br>
 
-${\textsf{\color{red}Market Basket Analysis on Grocery Purchases}}$<br>
-<b>Link:</b>https://github.com/Lughaidh-w/Affinity-Analysis-on-Grocery-Purchases<br>
-<b>Objective:</b> <br>
-<b>Description:</b> <br>
-<b>Results:</b> _<br>
+<b>Market Basket Analysis on Grocery Purchases</b><br>
+https://github.com/Lughaidh-w/Affinity-Analysis-on-Grocery-Purchases<br>
+_<br><br>
 
-${\textsf{\color{red}Sentiment Analysis on News Headlines}}$<br>
-<b>Link:</b> https://github.com/Lughaidh-w/Sentiment-Analysis-on-News-Headlines<br>
-<b>Objective:</b> <br>
-<b>Description:</b> <br>
-<b>Results:</b> _<br>
-
-
+<b>Sentiment Analysis on News Headlines</b><br>
+https://github.com/Lughaidh-w/Sentiment-Analysis-on-News-Headlines<br>
+_<br><br>
 <--ADD NEW CLUSTERING PROJECT-->
 
 <--ADD NEW MARKET BASKET ANALYSIS-->
@@ -130,11 +126,9 @@ These are a collection of projects in Deep Learning using TensorFlow, which feat
 
 ### Deep Learning | Time-Series Analysis
 
-${\textsf{\color{red}Time-Series Analysis on Stock Data}}$<br>
-<b>Link:</b> https://github.com/Lughaidh-w/Time-Series-Analysis-on-Stock-Data<br>
-<b>Objective:</b> <br>
-<b>Description:</b> <br>
-<b>Results:</b> _<br>
+<b>Time-Series Analysis on Stock Data</b><br>
+https://github.com/Lughaidh-w/Time-Series-Analysis-on-Stock-Data<br>
+_<br><br>
 
 <!-- Time-Series Analysis on Wind Speed -->
 
@@ -142,29 +136,22 @@ ${\textsf{\color{red}Time-Series Analysis on Stock Data}}$<br>
 
 ### Deep Learning | Computer Vision
 
-${\textsf{\color{red}Handwritten Digit Recognition in JavaScript}}$<br>
-<b>Link:</b> https://github.com/Lughaidh-w/Digit-Recognition-in-JavaScript<br>
-<b>Objective:</b>Perform Machine Learning in JavaScript. <br>
-<b>Description:</b>Using the MNIST dataset creates a Neural network for image recognition. MNIST dataset is a solved problem but implementing this in JS expands the uses of the project into app development. Interesting apps exist that use something similar to create Sudoku solvers that leverage a mobile phone's camera.<br>
-<b>Results:</b> Tensorflow.js creates an accurate Neural Network for digit classificaiton. <br>
-
-
-
+<b>Handwritten Digit Recognition in JavaScript</b><br>
+https://github.com/Lughaidh-w/Digit-Recognition-in-JavaScript<br>
+Perform Machine Learning in JavaScript.
+Using the MNIST dataset, create a Neural network for image recognition. MNIST dataset is a solved problem but implementing this in JS expands the uses of the project into app development. Interesting apps exist that use something similar to create Sudoku solvers that leverage a mobile phone's camera.
+TensorFlow.js creates an accurate Neural Network for digit classification.
+<br><br>
 
 
 ## Statistical Testing
 
 Most projects will feature some statistical testing 
 
-${\textsf{\color{red}A/B Testing Cookie Cats}}$<br>
-<b>Link:</b> https://github.com/Lughaidh-w/AB-Testing-Cookie-Cats<br>
-<b>Objective:</b> Conduct A/B testing on player retention for a game dataset.<br>
-<b>Description:</b> Cookie cats <br>
-<b>Results:</b> _<br>
-
-
-
-
+<b>A/B Testing Cookie Cats</b><br>
+https://github.com/Lughaidh-w/AB-Testing-Cookie-Cats<br>
+Conduct A/B testing on player retention for a game dataset.
+_<br><br>
 
 
 
@@ -172,10 +159,12 @@ ${\textsf{\color{red}A/B Testing Cookie Cats}}$<br>
 
 I have strong report writing and research skills, and I have included a selection of reports here.
 
-${\textsf{\color{red}Airline Customer Satisfaction}}$<br>
-<b>Link: </b>https://github.com/Lughaidh-w/Portfolio-Reports<br>
-<b>Objective: </b>Using CRISP-DM answer a machine learning question on a public dataset on transport/crime.<br>
-<b>Description: </b>Report from my HDip on Airline Customer Satisfaction.
+<b>Airline Customer Satisfaction</b><br>
+https://github.com/Lughaidh-w/Portfolio-Reports<br>
+Using CRISP-DM answer a machine learning question on a public dataset on transport/crime.
+Report from my HDip on Airline Customer Satisfaction.
+<br><br>
+
 
 ## Other Projects
 
@@ -183,47 +172,39 @@ These projects are here to showcase other relevant skils I have.
 Things to expect: Data Visualisation, Containers, APIs
 
 
-${\textsf{\color{red}Data Visualisation Game Sales}}$<br>
-<b>Link:</b> https://github.com/Lughaidh-w/Data-Visualisation-Game-Sales<br>
-<b>Objective:</b> Explore and visualise a dataset of gaming sales.<br>
-<b>Description:</b>  <br>
-<b>Results:</b> _<br>
-
+<b>Data Visualization Game Sales</b><br>
+https://github.com/Lughaidh-w/Data-Visualisation-Game-Sales<br>
+Explore and visualize a dataset of gaming sales.
+_<br><br>
 
 <--ADD CA 2-->
 
+<b>SQL Movie Database Creation</b><br>
+https://github.com/Lughaidh-w/SQL-Movie-Database-Creation<br>
+Create a database of popular movies using IMDb datasets and MySQL.
+Creating tables and database inside MySQL, performing queries for demonstration.
+_<br><br>
 
-${\textsf{\color{red}SQL Movie Database Creation}}$<br>
-<b>Link:</b> https://github.com/Lughaidh-w/SQL-Movie-Database-Creation<br>
-<b>Objective:</b> Create a database of popular movies using IMDb datasets and MySQL.<br>
-<b>Description:</b> Creating tables and database inside MySQL, performing queries for demonstration.<br>
-<b>Results:</b> _<br>
+<b>Zen Quotes API</b><br>
+https://github.com/Lughaidh-w/Zen-Quote-Display<br>
+This project utilizes Node.js to interact with a simple API for displaying Zen Quote images. It also incorporates Bash scripts and cron jobs for automation tasks.
+<br><br>
 
+<b>MongoDB Movie Database</b><br>
+https://github.com/Lughaidh-w/MongoDB-Movie-Database<br>
+Implement web scraping, databases, and data pipelines.
+Pipeline is created as follows: data scraped with Python > MongoDB > ETL with mongoose (Node.js) > MongoDB > more web scraping > MongoDB.
+_<br><br>
 
-${\textsf{\color{red}Zen Quotes API}}$<br>
-<b>Link:</b> https://github.com/Lughaidh-w/Zen-Quote-Display<br>
-<b>Description:</b> This project utilizes Node.js to interact with a simple API for displaying Zen Quote images. It also incorporates Bash scripts and cron jobs for automation tasks.
-
-
-${\textsf{\color{red}MongoDB Movie Database}}$<br>
-<b>Link:</b> https://github.com/Lughaidh-w/MongoDB-Movie-Database<br>
-<b>Objective:</b> Implement web scraping, databases, and data pipelines.<br>
-<b>Description:</b> Pipeline is created as follows: data scraped with Python > MongoDB > ETL with mongoose (node.js) > MongoDB > more web scraping > MongoDB
-<b>Results:</b> _<br>
-
-
-${\textsf{\color{red}Jupyter Notebook with Scala}}$<br>
-<b>Link:</b> https://github.com/Lughaidh-w/Jupyter-Notebook-in-Scala<br>
-<b>Description:</b> Docker image to run Jupyter Notebook with Scala kernal.
-
-
-
-## Other Links
+<b>Jupyter Notebook in Scala</b><br>
+https://github.com/Lughaidh-w/Jupyter-Notebook-in-Scala<br>
+Docker image to run Jupyter Notebook with Scala kernel.
+<br><br>
 
 Tableau Public<br>
-These visualisations answer specific questions for an assigments from my level 7 Diploma..<br>
-https://public.tableau.com/app/profile/lwilki33/vizzes<br>
+These visualizations answer specific questions for assignments from my level 7 Diploma.<br>
+https://public.tableau.com/app/profile/lwilki33/vizzes<br><br>
 
 Steam Platform Recommendation System<br>
-Dashboard based on approx 1000 Steam Users played and recommended games.<br>
+Dashboard based on approx 1000 Steam Users' played and recommended games.<br>
 https://l-wilkie-sba22529-mxf7kmquortk5wyy3ekjrm.streamlit.app/<br>

@@ -2,10 +2,9 @@
 
 ## About
 Welcome to my data analytics portfolio.
-This portfolio features projects in data science and showcases my analytical, engineering and general working with data skills.
 
-The table of contents below is the best way to navigate my portfolio.
-Some projects were completed as part of my education and answer certain questions according to the assignments, the explanations and rational in the accompying assignment outline and submitted reports are ommited.
+Some projects were completed as part of my education and answer certain questions according to the assignments, 
+the explanations and rational in the accompying assignment outline and submitted reports are ommited.
 
 ## Education
 
@@ -23,8 +22,6 @@ Diploma in Data Analytics for Business. CCT, Dublin
   - Natural Language Processing
 - Other Projects
 
-
-Some projects are WIP.
 
 
 ## Machine Learning Projects
@@ -168,11 +165,13 @@ Docker image to run Jupyter Notebook with Scala kernel.
 
 <b>Tableau Public</b><br>
 https://public.tableau.com/app/profile/lwilki33/vizzes<br>
-These visualizations answer specific questions for assignments from my level 7 Diploma.<br>
+These visualizations answer specific questions for assignments from my level 7 Diploma.
 <br><br>
 
-<b>Steam Platform Recommendation System</b><br>
+<b>Steam Platform Recommendation System App</b><br>
 https://l-wilkie-sba22529-mxf7kmquortk5wyy3ekjrm.streamlit.app/<br>
-Dashboard based on approx 1000 Steam Users' played and recommended games.<br>
+Dashboard based on approx 1000 Steam Users' played and recommended games.
+App is created in Streamlit, code available here: https://github.com/L-Wilkie-sba22529/streamlit_app
+<br><br>
 
 <--Add CA2 here -->

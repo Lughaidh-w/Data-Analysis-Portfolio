@@ -1,7 +1,4 @@
-# Louis Wilkie - Data Analyst Portfolio
-
-## About
-Welcome to my data analytics portfolio.
+# Data Analyst Portfolio
 
 Some projects were completed as part of my education and answer certain questions according to the assignments, 
 the explanations and rational in the accompying assignment outline and submitted reports are ommited.
@@ -10,6 +7,7 @@ the explanations and rational in the accompying assignment outline and submitted
 
 Higher Diploma in Data Analytics for Business. CCT, Dublin<br>
 Diploma in Data Analytics for Business. CCT, Dublin
+
 
 ## Table of Contents
 
@@ -167,6 +165,9 @@ Docker image to run Jupyter Notebook with Scala kernel.
 https://public.tableau.com/app/profile/lwilki33/vizzes<br>
 These visualizations answer specific questions for assignments from my level 7 Diploma.
 <br><br>
+
+<iframe src="https://public.tableau.com/views/GlobalOfficeSales/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width="800" height="600" frameborder="0"></iframe>
+
 
 <b>Steam Platform Recommendation System App</b><br>
 https://l-wilkie-sba22529-mxf7kmquortk5wyy3ekjrm.streamlit.app/<br>

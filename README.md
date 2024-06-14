@@ -54,11 +54,13 @@ These projects cover a variety of topics in data science. They are organised som
 
 ### Machine Learning | Supervised Learning
 
-${\textsf{\color{black}Laptop Price Prediction in Python}}$<br>
-<b>Link:</b> https://github.com/Lughaidh-w/Laptop-Price-Prediction<br>
+<b>Laptop Price Prediction in Python</b><br>
+https://github.com/Lughaidh-w/Laptop-Price-Prediction<br>
 <b>Objective:</b> Supervised learning to predict laptop price from a dataset of laptop features and prices.<br>
 <b>Description:</b> What features contribute to laptop pricing?<br>
 <b>Results:</b> _<br>
+<br><br>
+
 
 ${\textsf{\color{red}Laptop Price Prediction in R}}$<br>
 <b>Link:</b> https://github.com/Lughaidh-w/Laptop-Price-Prediction-in-R<br>

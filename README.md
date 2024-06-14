@@ -111,11 +111,12 @@ Relationships in the missing data are highlighted. Imputation methods and princi
 
 <b>Market Basket Analysis on Grocery Purchases</b><br>
 https://github.com/Lughaidh-w/Affinity-Analysis-on-Grocery-Purchases<br>
-_<br><br>
+Performs MBA on groceries data, and then performs a classification to determine based on customer recency.<br><br>
 
 <b>Sentiment Analysis on News Headlines</b><br>
 https://github.com/Lughaidh-w/Sentiment-Analysis-on-News-Headlines<br>
-_<br><br>
+Text processing and sentiment analysis of news headlines.
+Naive Baise model with 0.88% accuracy.<br><br>
 <--ADD NEW CLUSTERING PROJECT-->
 
 <--ADD NEW MARKET BASKET ANALYSIS-->
@@ -128,7 +129,9 @@ These are a collection of projects in Deep Learning using TensorFlow, which feat
 
 <b>Time-Series Analysis on Stock Data</b><br>
 https://github.com/Lughaidh-w/Time-Series-Analysis-on-Stock-Data<br>
-_<br><br>
+Time-Series analysis on Disney closing stock. Uses sequential LSTM and optimises with GridSearchCV.
+0.86 r2 on unseen data.
+<br><br>
 
 <!-- Time-Series Analysis on Wind Speed -->
 
@@ -151,7 +154,7 @@ Most projects will feature some statistical testing
 <b>A/B Testing Cookie Cats</b><br>
 https://github.com/Lughaidh-w/AB-Testing-Cookie-Cats<br>
 Conduct A/B testing on player retention for a game dataset.
-_<br><br>
+<br><br>
 
 
 
@@ -175,15 +178,15 @@ Things to expect: Data Visualisation, Containers, APIs
 <b>Data Visualization Game Sales</b><br>
 https://github.com/Lughaidh-w/Data-Visualisation-Game-Sales<br>
 Explore and visualize a dataset of gaming sales.
-_<br><br>
+The specific visualisation tasks in this are questions from an assignment. 
+<br><br>
 
 <--ADD CA 2-->
 
 <b>SQL Movie Database Creation</b><br>
 https://github.com/Lughaidh-w/SQL-Movie-Database-Creation<br>
-Create a database of popular movies using IMDb datasets and MySQL.
-Creating tables and database inside MySQL, performing queries for demonstration.
-_<br><br>
+This project has been upgraded to mongDB.
+<br><br>
 
 <b>Zen Quotes API</b><br>
 https://github.com/Lughaidh-w/Zen-Quote-Display<br>
@@ -194,7 +197,7 @@ This project utilizes Node.js to interact with a simple API for displaying Zen Q
 https://github.com/Lughaidh-w/MongoDB-Movie-Database<br>
 Implement web scraping, databases, and data pipelines.
 Pipeline is created as follows: data scraped with Python > MongoDB > ETL with mongoose (Node.js) > MongoDB > more web scraping > MongoDB.
-_<br><br>
+<br><br>
 
 <b>Jupyter Notebook in Scala</b><br>
 https://github.com/Lughaidh-w/Jupyter-Notebook-in-Scala<br>
@@ -202,9 +205,10 @@ Docker image to run Jupyter Notebook with Scala kernel.
 <br><br>
 
 Tableau Public<br>
+https://public.tableau.com/app/profile/lwilki33/vizzes<br>
 These visualizations answer specific questions for assignments from my level 7 Diploma.<br>
-https://public.tableau.com/app/profile/lwilki33/vizzes<br><br>
+<br><br>
 
 Steam Platform Recommendation System<br>
-Dashboard based on approx 1000 Steam Users' played and recommended games.<br>
 https://l-wilkie-sba22529-mxf7kmquortk5wyy3ekjrm.streamlit.app/<br>
+Dashboard based on approx 1000 Steam Users' played and recommended games.<br>

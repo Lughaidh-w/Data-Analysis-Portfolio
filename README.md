@@ -14,7 +14,6 @@ Diploma in Data Analytics for Business. CCT, Dublin
 
 ## Table of Contents
 
-- Technologies Used
 - Machine Learning Projects
   - Supervised Learning
   - Unsupervised Learning
@@ -22,33 +21,15 @@ Diploma in Data Analytics for Business. CCT, Dublin
   - Time-Seres Analysis
   - Computer Vision
   - Natural Language Processing
-- Statistical Testing
-- Report Writing
 - Other Projects
 
-## Technologies Used
-This is a selection of the technologies used in my portfolio.<br>
 
-Most projects will feature python and the usual data science python libraries, 
-but I enjoy learning new things and approaching problems in new ways so you might find some exploration in other languages.
-This list isn't exhaustive, but I hope it's a good overview of my skills.
-
-Languages used: Python, R, SQL, Scala, JavaScript, Bash
-Environments: Anaconda, RStudio, Jupyter, RMarkdown, VSCode, Docker, Node.js
-
-Statistical tests:
-Hypothesis testing, A/B testing, probabilities
-
-Databases:
-    SQL: MySQL, PostgresSQL
-    NoSQL: MongoDB
-
-## Projects
 Some projects are WIP.
 
 
 ## Machine Learning Projects
-These projects cover a variety of topics in data science. They are organised somewhat by their machine learning goals, but most are end-to-end projects with extensive data wrangling, feature engineering and visualisation. 
+These projects cover a variety of topics in data science.
+The categorisation is a rough outline.
 
 
 ### Machine Learning | Supervised Learning
@@ -133,8 +114,7 @@ Time-Series analysis on Disney closing stock. Uses sequential LSTM and optimises
 0.86 r2 on unseen data.
 <br><br>
 
-<!-- Time-Series Analysis on Wind Speed -->
-
+<!-- Todo: Add multivaritive Time-Series Analysis on Wind Speed -->
 
 
 ### Deep Learning | Computer Vision
@@ -147,32 +127,20 @@ TensorFlow.js creates an accurate Neural Network for digit classification.
 <br><br>
 
 
-## Statistical Testing
-
-Most projects will feature some statistical testing 
-
-<b>A/B Testing Cookie Cats</b><br>
-https://github.com/Lughaidh-w/AB-Testing-Cookie-Cats<br>
-Conduct A/B testing on player retention for a game dataset.
-<br><br>
+## Other Projects
 
 
-
-## Report Writing
-
-I have strong report writing and research skills, and I have included a selection of reports here.
-
-<b>Airline Customer Satisfaction</b><br>
+<b>Report Writing</b><br>
 https://github.com/Lughaidh-w/Portfolio-Reports<br>
 Using CRISP-DM answer a machine learning question on a public dataset on transport/crime.
 Report from my HDip on Airline Customer Satisfaction.
 <br><br>
 
 
-## Other Projects
-
-These projects are here to showcase other relevant skils I have.
-Things to expect: Data Visualisation, Containers, APIs
+<b>A/B Testing Cookie Cats</b><br>
+https://github.com/Lughaidh-w/AB-Testing-Cookie-Cats<br>
+Conduct A/B testing on player retention for a game dataset.
+<br><br>
 
 
 <b>Data Visualization Game Sales</b><br>
@@ -181,17 +149,11 @@ Explore and visualize a dataset of gaming sales.
 The specific visualisation tasks in this are questions from an assignment. 
 <br><br>
 
-<--ADD CA 2-->
-
-<b>SQL Movie Database Creation</b><br>
-https://github.com/Lughaidh-w/SQL-Movie-Database-Creation<br>
-This project has been upgraded to mongDB.
-<br><br>
-
 <b>Zen Quotes API</b><br>
 https://github.com/Lughaidh-w/Zen-Quote-Display<br>
 This project utilizes Node.js to interact with a simple API for displaying Zen Quote images. It also incorporates Bash scripts and cron jobs for automation tasks.
 <br><br>
+
 
 <b>MongoDB Movie Database</b><br>
 https://github.com/Lughaidh-w/MongoDB-Movie-Database<br>
@@ -204,11 +166,13 @@ https://github.com/Lughaidh-w/Jupyter-Notebook-in-Scala<br>
 Docker image to run Jupyter Notebook with Scala kernel.
 <br><br>
 
-Tableau Public<br>
+<b>Tableau Public</b><br>
 https://public.tableau.com/app/profile/lwilki33/vizzes<br>
 These visualizations answer specific questions for assignments from my level 7 Diploma.<br>
 <br><br>
 
-Steam Platform Recommendation System<br>
+<b>Steam Platform Recommendation System</b><br>
 https://l-wilkie-sba22529-mxf7kmquortk5wyy3ekjrm.streamlit.app/<br>
 Dashboard based on approx 1000 Steam Users' played and recommended games.<br>
+
+<--Add CA2 here -->

@@ -2,11 +2,10 @@
 
 ## About
 Welcome to my data analytics portfolio.
-I currently hold a Diploma in Data Analytics for Business, and studying the Higher Diploma in Data Analytics for Business from College of Computing Technology, Dublin.
 This portfolio features projects in data science and showcases my analytical, engineering and general working with data skills.
 
 The table of contents below is the best way to navigate my portfolio.
-Some projects were completed as part of my education and answer certain questions according to the assignments, the explanations and rational in the accompying assignment outline and submitted reports are ommit>
+Some projects were completed as part of my education and answer certain questions according to the assignments, the explanations and rational in the accompying assignment outline and submitted reports are ommited.
 
 ## Education
 
@@ -55,7 +54,7 @@ These projects cover a variety of topics in data science. They are organised som
 
 ### Machine Learning | Supervised Learning
 
-${\textsf{\color{red}Laptop Price Prediction in Python}}$<br>
+${\textsf{\color{black}Laptop Price Prediction in Python}}$<br>
 <b>Link:</b> https://github.com/Lughaidh-w/Laptop-Price-Prediction<br>
 <b>Objective:</b> Supervised learning to predict laptop price from a dataset of laptop features and prices.<br>
 <b>Description:</b> What features contribute to laptop pricing?<br>
@@ -97,13 +96,6 @@ ${\textsf{\color{red}Data Analysis in R; Statistics, Probability, Regression}}$<
 <b>Description: </b>RMarkdown files are completed from part of Data Analysis with R Specialisation with Duke University. <br>
 <b>Results: </b>Questions and Exercises completed in R.
 
-${\textsf{\color{red}Regression in Scala}}$<br>
-<b>Link:</b>https://github.com/Lughaidh-w/Regression-in-Scala <br>
-<b>Objective: </b>Predict Car Fuel Comsumption <br>
-<b>Description: </b>Uses Scala/Spark to explore, prepare and analyse data, performing supervised learning tasks.<br>
-<b>Results: </b>
-
-
 
 ### Machine Learning | Unsupervised Learning
 
@@ -137,7 +129,7 @@ These are a collection of projects in Deep Learning using TensorFlow, which feat
 ### Deep Learning | Time-Series Analysis
 
 ${\textsf{\color{red}Time-Series Analysis on Stock Data}}$<br>
-1<b>Link:</b> https://github.com/Lughaidh-w/Time-Series-Analysis-on-Stock-Data<br>
+<b>Link:</b> https://github.com/Lughaidh-w/Time-Series-Analysis-on-Stock-Data<br>
 <b>Objective:</b> <br>
 <b>Description:</b> <br>
 <b>Results:</b> _<br>
@@ -179,7 +171,7 @@ ${\textsf{\color{red}A/B Testing Cookie Cats}}$<br>
 I have strong report writing and research skills, and I have included a selection of reports here.
 
 ${\textsf{\color{red}Airline Customer Satisfaction}}$<br>
-<b>Link: </b>https://github.com/Lughaidh-w/Portfolio-Reports/tree/master<br>
+<b>Link: </b>https://github.com/Lughaidh-w/Portfolio-Reports<br>
 <b>Objective: </b>Using CRISP-DM answer a machine learning question on a public dataset on transport/crime.<br>
 <b>Description: </b>Report from my HDip on Airline Customer Satisfaction.
 
@@ -211,8 +203,8 @@ ${\textsf{\color{red}Zen Quotes API}}$<br>
 <b>Description:</b> This project utilizes Node.js to interact with a simple API for displaying Zen Quote images. It also incorporates Bash scripts and cron jobs for automation tasks.
 
 
-${\textsf{\color{red}SQL Movie Database Creation}}$<br>
-<b>Link:</b> https://github.com/Lughaidh-w/SQL-Movie-Database-Creation<br>
+${\textsf{\color{red}MongoDB Movie Database}}$<br>
+<b>Link:</b> https://github.com/Lughaidh-w/MongoDB-Movie-Database<br>
 <b>Objective:</b> Implement web scraping, databases, and data pipelines.<br>
 <b>Description:</b> Pipeline is created as follows: data scraped with Python > MongoDB > ETL with mongoose (node.js) > MongoDB > more web scraping > MongoDB
 <b>Results:</b> _<br>

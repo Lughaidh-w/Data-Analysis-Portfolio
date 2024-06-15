@@ -93,9 +93,6 @@ Performs MBA on groceries data, and then performs a classification to determine 
 https://github.com/Lughaidh-w/Sentiment-Analysis-on-News-Headlines<br>
 Text processing and sentiment analysis of news headlines.
 Naive Baise model with 0.88% accuracy.<br><br>
-<--ADD NEW CLUSTERING PROJECT-->
-
-<--ADD NEW MARKET BASKET ANALYSIS-->
 
 ## Deep Learning
 
@@ -108,8 +105,6 @@ https://github.com/Lughaidh-w/Time-Series-Analysis-on-Stock-Data<br>
 Time-Series analysis on Disney closing stock. Uses sequential LSTM and optimises with GridSearchCV.
 0.86 r2 on unseen data.
 <br><br>
-
-<!-- Todo: Add multivaritive Time-Series Analysis on Wind Speed -->
 
 
 ### Deep Learning | Computer Vision
@@ -149,6 +144,12 @@ https://github.com/Lughaidh-w/Zen-Quote-Display<br>
 This project utilizes Node.js to interact with a simple API for displaying Zen Quote images. It also incorporates Bash scripts and cron jobs for automation tasks.
 <br><br>
 
+<b>PostegreSQL Tasks</b><br>
+https://github.com/Lughaidh-w/postegresql-tasks
+Collection of tasks from Everboy Sepcialization provided by University of Michigan on Coursera.
+Including basic PostegreSQL commands/tables, gin index with some NLP.
+<br><br>
+
 
 <b>MongoDB Movie Database</b><br>
 https://github.com/Lughaidh-w/MongoDB-Movie-Database<br>
@@ -168,8 +169,8 @@ Below shows a preview of one of the tasks.
 <br><br>
 
 <p float="left">
-  <img src="assets/dashboard1.png" alt="Global Office Sales - Dashboard 1" width="48%" />
-  <img src="assets/dashboard2.png" alt="Global Office Sales - Dashboard 2" width="48%" />
+  <img src="https://raw.githubusercontent.com/Lughaidh-w/Data-Analysis-Portfolio/master/assets/dashboard1.png" alt="Global Office Sales - Dashboard 1" width="48%" />
+  <img src="https://raw.githubusercontent.com/Lughaidh-w/Data-Analysis-Portfolio/master/assets/dashboard2.png" alt="Global Office Sales - Dashboard 2" width="48%" />
 </p>
 
 <br>
@@ -180,6 +181,5 @@ Dashboard based on approx 1000 Steam Users' played and recommended games.
 App is created in Streamlit, code available here: https://github.com/L-Wilkie-sba22529/streamlit_app
 <br><br>
 
-<img src="assets/steam_streamlit_app.png" alt="Steam Streamlit App" width="100%"/>
+<img src="https://raw.githubusercontent.com/Lughaidh-w/Data-Analysis-Portfolio/master/assets/steam_streamlit_app.png" alt="Steam Streamlit App" width="100%"/>
 
-<--Add CA2 here -->

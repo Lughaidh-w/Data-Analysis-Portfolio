@@ -94,7 +94,7 @@ https://github.com/Lughaidh-w/Sentiment-Analysis-on-News-Headlines<br>
 Text processing and sentiment analysis of news headlines.
 Naive Baise model with 0.88% accuracy.<br><br>
 
-<b>Sentiment Analysis of Alexa Reviews<b><br>
+<b>Sentiment Analysis of Alexa Reviews</b><br>
 https://github.com/Lughaidh-w/Sentiment-Analysis-of-Alexa-Reviews<br>
 Sentiment Analysis of a nearly 3000 Amazon customer reviews. 
 A word cloud of the positive reviews is shown below.

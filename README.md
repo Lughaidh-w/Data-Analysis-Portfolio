@@ -56,12 +56,6 @@ Model car emissions with Regression in Scala.
 Data exploration, cleaning, and modeling using Scala in Jupyter Notebook with machine learning and Spark libraries.
 <br><br>
 
-<b>Steam platform recommendation system</b><br>
-Link coming soon<br>
-Recommendation system using collaborative and content-based filtering, including a Streamlit dashboard.
-This project is completed and will be uploaded soon.
-<br><br>
-
 <b>Apache Spark ML</b><br>
 https://github.com/Lughaidh-w/apache-spark-ml<br>
 Perform Machine Learning in Spark.
@@ -76,6 +70,20 @@ RMarkdown files are completed as part of the Data Analysis with R Specialization
 Questions and exercises completed in R.
 <br><br>
 
+<b>Sentiment Analysis on News Headlines</b><br>
+https://github.com/Lughaidh-w/Sentiment-Analysis-on-News-Headlines<br>
+Text processing and sentiment analysis of news headlines.
+Naive Baise model with 0.88% accuracy.<br><br>
+
+
+<b>Sentiment Analysis of Alexa Reviews</b><br>
+https://github.com/Lughaidh-w/Sentiment-Analysis-of-Alexa-Reviews<br>
+Sentiment Analysis of a nearly 3000 Amazon customer reviews.
+A word cloud of the positive reviews is shown below.
+<br><br>
+<img src="https://raw.githubusercontent.com/Lughaidh-w/Data-Analysis-Portfolio/>
+
+
 ### Machine Learning | Unsupervised Learning
 
 <b>Dimensionality Reduction on Unknown Data</b><br>
@@ -89,17 +97,11 @@ Relationships in the missing data are highlighted. Imputation methods and princi
 https://github.com/Lughaidh-w/Affinity-Analysis-on-Grocery-Purchases<br>
 Performs MBA on groceries data, and then performs a classification to determine based on customer recency.<br><br>
 
-<b>Sentiment Analysis on News Headlines</b><br>
-https://github.com/Lughaidh-w/Sentiment-Analysis-on-News-Headlines<br>
-Text processing and sentiment analysis of news headlines.
-Naive Baise model with 0.88% accuracy.<br><br>
-
-<b>Sentiment Analysis of Alexa Reviews</b><br>
-https://github.com/Lughaidh-w/Sentiment-Analysis-of-Alexa-Reviews<br>
-Sentiment Analysis of a nearly 3000 Amazon customer reviews. 
-A word cloud of the positive reviews is shown below.
+<b>Steam platform recommendation system</b><br>
+Link coming soon<br>
+Recommendation system using collaborative and content-based filtering, includin>
+This project is completed and will be uploaded soon.
 <br><br>
-<img src="https://raw.githubusercontent.com/Lughaidh-w/Data-Analysis-Portfolio/master/assets/positive_word_cloud.png" alt="Word Cloud of Positive Words" width="100%"/>
 
 
 

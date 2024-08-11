@@ -18,6 +18,7 @@ Diploma in Data Analytics for Business. CCT, Dublin
   - Time-Seres Analysis
   - Computer Vision
   - Natural Language Processing
+- Cloud Projects
 - Other Projects
 
 
@@ -81,8 +82,7 @@ https://github.com/Lughaidh-w/Sentiment-Analysis-of-Alexa-Reviews<br>
 Sentiment Analysis of a nearly 3000 Amazon customer reviews.
 A word cloud of the positive reviews is shown below.
 <br><br>
-<img src="https://raw.githubusercontent.com/Lughaidh-w/Data-Analysis-Portfolio/>
-
+<img src="https://raw.githubusercontent.com/Lughaidh-w/Data-Analysis-Portfolio/master/assets/positive_word_cloud.png" alt="Word Cloud of Positive Words" width="100%"/>
 
 ### Machine Learning | Unsupervised Learning
 
@@ -126,6 +126,22 @@ Perform Machine Learning in JavaScript.
 Using the MNIST dataset, create a Neural network for image recognition. MNIST dataset is a solved problem but implementing this in JS expands the uses of the project into app development. Interesting apps exist that use something similar to create Sudoku solvers that leverage a mobile phone's camera.
 TensorFlow.js creates an accurate Neural Network for digit classification.
 <br><br>
+
+
+## Cloud Data Science Projects
+
+These projects are done on Google Cloud Platform.
+
+<b>Google Cloud SDK Image</b><br>
+https://github.com/Lughaidh-w/google-cloud-sdk-image<br>
+Google cloud SDK image with Jupyter Lab.
+
+
+
+<b>Modelling US Birth weight using Vertex AI Platform</b><br>
+
+Uses BigQuery and tensorflow to model US birth weights.
+
 
 
 ## Other Projects

@@ -18,7 +18,7 @@ Diploma in Data Analytics for Business. CCT, Dublin
   - Time-Seres Analysis
   - Computer Vision
   - Natural Language Processing
-- Cloud Projects
+<!-- - Cloud Projects-->
 - Other Projects
 
 
@@ -128,7 +128,7 @@ TensorFlow.js creates an accurate Neural Network for digit classification.
 <br><br>
 
 
-## Cloud Data Science Projects
+<!-- ## Cloud Data Science Projects
 
 These projects are done on Google Cloud Platform.
 
@@ -142,7 +142,7 @@ Google cloud SDK image with Jupyter Lab.
 
 Uses BigQuery and tensorflow to model US birth weights.
 
-
+-->
 
 ## Other Projects
 

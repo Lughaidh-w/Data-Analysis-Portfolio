@@ -6,7 +6,10 @@ the explanations and rational in the accompying assignment outline and submitted
 ## Education
 
 Higher Diploma in Data Analytics for Business. CCT, Dublin<br>
-Diploma in Data Analytics for Business. CCT, Dublin
+Diploma in Data Analytics for Business. CCT, Dublin<br>
+
+Selection of Certificates:<br>
+https://www.credly.com/users/louis-wilkie
 
 
 ## Table of Contents
@@ -215,4 +218,5 @@ App is created in Streamlit, code available here: https://github.com/L-Wilkie-sb
 <br><br>
 
 <img src="https://raw.githubusercontent.com/Lughaidh-w/Data-Analysis-Portfolio/master/assets/steam_streamlit_app.png" alt="Steam Streamlit App" width="100%"/>
+
 
